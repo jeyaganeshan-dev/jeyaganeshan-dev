@@ -2,6 +2,7 @@
 **Web Development:**
 
 • Languages: HTML, CSS, JavaScript, Python
+
 • Frameworks: React, Vue.js, Node.js
 • Tools: Git, GitHub, VS Code
 
