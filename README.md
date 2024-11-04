@@ -1,9 +1,11 @@
 
 **Web Development:**
 
-• Languages: HTML, CSS, JavaScript, Python
+• Languages: HTML, CSS, JavaScript, jQuery, Python
 
-• Frameworks: React, Vue.js, Node.js
+• Frameworks: React, Vue.js, Node.js, Django, Wagtail
+
+• Tech: web3, blockchain, NFT
 
 • Tools: Git, GitHub, VS Code
 
@@ -13,9 +15,9 @@
 
 **Graphic Design:**
 
-• Tools: Adobe Photoshop, Illustrator, InDesign, Figma
+• Tools: Adobe Photoshop, Illustrator, InDesign, XD, After Effects, Animate, Premiere Pro, Figma
 
-• Specialties: Logo design, branding, UI/UX design, digital illustrations
+• Specialties: Logo design, branding, UI/UX design, digital illustrations, Motion Graphics
 
 • Projects: Collaborating with clients to create compelling visual identities and marketing materials.
 
@@ -33,7 +35,7 @@ Portfolio: [Link to your portfolio]
 
 LinkedIn: [Link to your LinkedIn profile]
 
-Email: [Your email address]
+Email: jeyaganeshan.dev@gmail.com
 
 - 👋 Hi, I’m @jeyaganeshan-dev
 - 👀 I’m interested in ...
